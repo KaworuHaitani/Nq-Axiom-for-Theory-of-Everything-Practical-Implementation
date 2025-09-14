@@ -1,0 +1,31 @@
+cff-version: 1.0
+message: "If you use this theoretical framework, please cite it as below."
+authors:
+  - family-names: "Haitani"
+    given-names: "Kaworu"
+type: software
+title: "Nq Axiom for Theory of Everything: Practical Implementation"
+version: 1.0.0
+date-released: 2025-09-14
+url: "https://github.com/KaworuHaitani/nq-axiom-toe"
+repository-code: "https://github.com/KaworuHaitani/nq-axiom-toe"
+abstract: "A unified theoretical framework proposing that all physical phenomena emerge from quantum fluctuations governed by universal correlation effects. The Nq axiom Var(Ô) = ℏω(1+C)/N unifies quantum mechanics, general relativity, and the Standard Model through the correlation parameter C. The theory provides practical solutions to major physics problems including quantum gravity, gravitational constant dynamics, Standard Model origins, and cosmological tensions while offering specific experimental predictions and computational implementation methods."
+keywords:
+  - "nq axiom"
+  - "theory of everything"
+  - "correlation parameter"
+  - "quantum fluctuations"
+  - "quantum gravity"
+  - "standard model origin"
+  - "gravitational constant"
+  - "hubble tension"
+  - "dark matter"
+  - "dark energy"
+  - "hierarchy problem"
+  - "unified field theory"
+  - "correlation physics"
+  - "emergent spacetime"
+references:
+  - type: website
+    url: "https://github.com/KaworuHaitani/nq-axiom-toe"
+    title: "Nq Axiom for Theory of Everything: Practical Implementation"
